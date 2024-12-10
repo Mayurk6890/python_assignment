@@ -1,0 +1,56 @@
+Que 1. Introduction to for and while loops.
+Ans =  for loop :
+                 Loops in Python are used to execute a block of code repeatedly for a 
+                 specified number of time.
+                 this loop is sequence controlled loop
+                 syntax :
+                        for interator on sequence :
+                              statement
+         
+        while loop :
+                 while loop is a entry controedl loop while loop check condition first and 
+                 then execute.
+                 The while loop repeats a block of code as long as a condition is True. 
+	             syntex:
+                       initlization
+		               while condition
+		               statment
+		               updation
+        =====================================================================================
+
+Que 2. How loops work in Python.
+Ans =  for loop   : this loop is sequence controlled loop this wrok step by step execute
+                  1.initlization
+                  2.condition
+                  3.excution
+                  4.iteration 
+
+       while loop : The while loop repeats a block of code as long as a condition is True.
+                          1.initlization
+		          2.while condition
+		          3.statment
+		          4.updation  
+
+        ======================================================================================
+
+Que 3. Using loops with collections (lists, tuples, etc.)
+Ans =  using collection with list :-
+                                You can use a for loop to iterate over a list:
+                                        fruits = ['apple', 'banana', 'mango']
+                                        for fruit in fruits:
+                                        print(fruit)     
+
+        using collection with tuples :-
+                                You can use a for loop to iterate over a tuple:
+                                        colors = ('red', 'green', 'blue')
+                                        for color in colors:
+                                        print(color)
+
+        using collection with dictionary :-
+                You can use a for loop to iterate over a dictionary's keys, values, or items:
+                                        person = {'name': 'John', 'age': 30, 'city': 'New York'}
+                                        for key in person:
+                                        print(key)                               
+                        
+        ==========================================================================================
+        

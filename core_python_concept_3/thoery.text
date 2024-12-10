@@ -1,0 +1,48 @@
+Que 1. Understanding data types: integers, floats,strings, lists, tuples, dictionaries,sets.
+Ans =  DATA TYPES :
+       INTEGER -
+                 Integers are whole numbers, either positive, negative, or zero.
+                 EXAMPLE - 0,1,20,-45,8,101
+ 
+       FLOAT   - 
+                 Floats are decimal numbers.
+                 EXAMPLE - 1.7,15.25,5.5
+
+       STRINGS - 
+                 Strings are sequences of characters, such as words, sentences, or paragraphs.
+                 EXAMPLE - mayur, hello word , hello "python".
+
+       LIST    - 
+                 List is a collection data types which is contain similer and dis-similer data
+                 elements at single location.
+                 EXAMPLE - [10,A,10.20,mayur]   
+
+       TUPLES  - Tuples are ordered, immutable collections of items that can be of any data type,
+                 including strings, integers, floats, and other tuples. 
+                 EXAMPLE - (1,20,45) ("Mayur","yash","Mehul")  
+
+       DICTIONARIES - Dictionaries are unordered collections of key-value pairs.
+                 EXAMPLE - {"name":"mayur","age":24} {"city":"Ahmdbada","Country":"INDIA"} 
+
+        SET    - Sets are unordered, mutable collections of unique items.
+                 EXAMPLE - {1,2,4,} {"APPLE","BANANA","CHERRY"}
+       
+       ==========================================================================================
+
+Que 2. Python variables and memory allocation.
+Ans =  Python, variables are references or labels that point to objects in memory. 
+       They do not hold the data themselves but rather refer to objects stored in memory.
+
+       ==========================================================================================
+
+Que 3. Python operators: arithmetic, comparison, logical, bitwise.
+Ans =    ARITHMETIC OPERATION  : mathematical operations used to +, -, *, //.  
+         COMPARISION OPERATION : Compare values used , e.g., ==, !=, <, >.  
+         LOGICAL OPERATION     : Combine conditions using and, or, not.  
+         BITWISE OPERATION     : Perform bit-level operations like &, |, ^, ~.
+
+       ==========================================================================================
+
+                       
+                  
+

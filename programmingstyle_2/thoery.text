@@ -1,0 +1,46 @@
+Que 1. Understanding Python’s PEP 8 guidelines.
+Ans =  PEP 8 (Python Enhancement Proposal 8)
+       PEP 8 is a set of rules for writing clean and readable Python code. the main guidelines :
+       1. INDENTATION  - Use 4 space for each indentation level.
+       2. LINE LENGHT  - Keep lines under 79 characters.
+       3. BLANK LINES  - Use blank lines to separate code blocks.
+       4. IMPORTS      - Group imports and put them at the top of the file.
+       5. WHITESPACE   - Use spaces around operators and after commas.
+       6. NAMING:      - Use snake_case for variables and functions, CamelCase for classes, and 
+                         ALL_CAPS for constants.
+       7. COMMENTS     - Inline Comments: Use a space after the # symbol and ensure the comment 
+                         adds value
+
+       =========================================================================================                  
+
+Que 2. Indentation, comments, and naming conventions in Python.
+Ans =  INDENTATION - Python uses indentation to define blocks of code, 
+                     unlike other languages that use curly braces {}.
+                     Use 4 spaces per indentation level. Avoid tabs.
+
+       COMMENT     -  2 types of comments :
+                      (1) Single line comment use the # symbol
+                      (2) Multi-line comment use the ("""/ """) or docstrings (""")
+
+       NAMING      - Follow Python's PEP 8 guidelines for consistent naming of variables,
+                     functions, classes, and constants. 
+       =======================================================================================
+
+Que 3. Writing readable and maintainable code.
+Ans =  Use clear names:
+            age is better than x
+            calculate_area is better than func1
+      
+       Indentation matters:
+            Use 4 spaces to show what code belongs together.
+       
+       Comment your code:
+            Explain what your code does, especially for tricky parts.
+            
+       Break down big problems:
+            Divide large tasks into smaller, easier-to-solve steps.
+      
+       Test your code:
+            Try different inputs to make sure your code works correctly.
+
+       =======================================================================================

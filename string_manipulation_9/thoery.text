@@ -1,0 +1,35 @@
+Que 1. Understanding how to access and manipulate strings.
+Ans =  upper(): String ko upper case mein convert karta hai.
+       lower(): String ko lower case mein convert karta hai.
+       strip(): Leading aur trailing whitespace ko remove karta hai.
+       split(): String ko ek list mein convert karta hai.
+       join() : Ek list ko ek string mein convert karta hai.
+
+       ============================================================================
+
+Que 2. Basic operations: concatenation, repetition,string methods(upper(), lower(), etc.).
+Ans =  concatenation + operator use :-
+       str1 = "mayur"
+       str2 = "kalal"
+       print(str1 + " " + str2)  #Output :-- mayur kalal
+
+       repetition * operator use :-
+       str1 = "Hello"
+       print(str1 * 3)          # Output :-- mayurmayurmayur
+
+       String methods :-
+         upper(): String ko upper case mein convert karta hai.
+-        lower(): String ko lower case mein convert karta hai.
+         strip(): Leading aur trailing whitespace ko remove karta hai.
+         split(): String ko ek list mein convert karta hai.
+         join(): Ek list ko ek string mein convert karta hai.
+
+        ============================================================================
+
+Que 3. String slicing.
+Ans =  string[start:stop:step]
+       start: Slicing ki shuruaat kahan se karni hai.
+       stop: Slicing ki samapti kahan par karni hai.
+       step: Slicing ke liye kitne characters ko skip karna hai.
+       
+       ========================================================================================   

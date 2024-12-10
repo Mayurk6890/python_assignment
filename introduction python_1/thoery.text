@@ -1,0 +1,58 @@
+Que 1. Introduction to Python and its Features (simple, high-level, interpreted language).
+ans =  python is weidly used, high-level, New gerneral-purpose prgramming language.  
+       it was designed by guido van rossum in 1991 by developed by python software foundation.
+       python is interpreted, object-oriented,high-level language with dynamic scientific.
+       it was developed for emphasis or code readability. it syntax allowes programmers to express 
+       concept in fewer lines of code.
+
+       FEATURE :
+       1. Simple and easy to learn
+       2. Clean and Clear syntax & Very few keywords
+       3. high level language
+       4. Extansible standard library
+       5. Support for Multiple Paradigms
+       6. dynamic typed
+       7. Platform Independed
+       8. Highly portable
+       9. Improved programme maintance
+       10. Uses white space to delimit blocks.
+
+       ============================================================================
+
+Que 2. History and evolution of Python. 
+Ans =  version         realese year   
+        python            1991             
+        python 2          2000 
+        python 3          2008 
+        python 3.13       2024  
+
+       ================================================================================       
+
+Que 3. Advantages of using Python over other programming languages.
+Ans =  1.Easy to learn aur used
+       2.High level language
+       3.Dynamic typing
+       4.object-oriented prgramming
+       5.Large standard library
+       6.Cross-Platform compatibility
+       7.Free & open-source
+       8.Few liner code      
+
+       =====================================================================================
+
+Que 4. Installing Python and setting up the development environment (Anaconda, PyCharm, or VS Code)
+Ans =  INSTALL PYTHON IN VS CODE :
+             1.Download and install VS Code from website.
+             2.Install the "Python" extension.
+             3.Create a new Python file (.py extension).
+             4.Write your code, e.g., print("Hello, world!").
+             5.Run the code directly from VS Code or use the terminal.
+
+       =======================================================================================
+
+Que 5. Writing and exucating your first python programme.
+Ans =  1. Open Visual Studio Code.
+       2. Create a new file and save it with a .py extension.
+       3. Write the following code in the file.
+
+       ========================================================================================
